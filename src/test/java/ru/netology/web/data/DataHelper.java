@@ -1,7 +1,7 @@
 package ru.netology.web.data;
 
 import lombok.Value;
-import ru.netology.web.page.DashboardPage;
+
 
 import java.util.Random;
 

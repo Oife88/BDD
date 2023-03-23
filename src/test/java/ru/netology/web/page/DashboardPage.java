@@ -5,12 +5,11 @@ import com.codeborne.selenide.SelenideElement;
 import lombok.val;
 import ru.netology.web.data.DataHelper;
 
-import java.util.concurrent.TransferQueue;
 
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.$$;
-import static java.awt.SystemColor.text;
+
 
 public class DashboardPage {
 
